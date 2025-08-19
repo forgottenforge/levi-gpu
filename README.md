@@ -287,6 +287,7 @@ We're actively seeking partnerships for:
 
 📜 For details, see the LICENSE file.
 
+![Vermicular](https://github.com/forgottenforge/levi-gpu/blob/main/levi.jpg)
 ---
 �
 
